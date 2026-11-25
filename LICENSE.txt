@@ -1,0 +1,23 @@
+ZBrush Backup - End-user License
+Version 1.1.0
+Copyright (c) 2026. All rights reserved by the copyright holder.
+
+Obtaining an authorized copy grants the individual recipient a non-exclusive
+license to install and use ZBrush Backup on computers they control for personal
+and professional work, whether downloaded for free or with a voluntary payment.
+Commercial use of the artist's own work is permitted. Additional users may obtain
+their own authorized copies. You may make private backup copies of the utility.
+
+You may not resell, redistribute, sublicense, or publish the utility or its
+accompanying source files without separate permission from the copyright holder.
+No rights to ZBrush, third-party plugins, fonts, brushes, or other assets are
+granted by this license. Your own backup files and artistic work remain yours.
+
+The utility is supplied as available. Keep independent copies of important data
+and check the suitability of your backups and restored settings for your own
+workflow. To the extent permitted by applicable law, there is no guarantee of
+uninterrupted operation or compatibility with every future ZBrush release or
+third-party plugin. Nothing in these terms removes mandatory consumer rights.
+
+ZBrush is a trademark of its respective owner. ZBrush Backup is an independent
+utility and is not affiliated with or endorsed by Maxon.
